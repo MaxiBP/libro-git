@@ -1,0 +1,12 @@
+CAPITULO I
+
+Git es un sistema de control de versiones de código abierto que ayuda a los desarrolladores a trabajar en proyectos de forma remota o sin conexión. Git es un rastreador de contenido que se utiliza principalmente para almacenar código.
+
+CAPITULO II
+
+Flujo de trabajo básico.
+
+CAPITULO III: 
+
+Repositorios remotos.
+ 
